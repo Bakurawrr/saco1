@@ -1,0 +1,20 @@
+{
+  "name": "Rizumu",
+  "short_name": "Karaoke",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='192' height='192'><rect width='100%' height='100%' fill='%23080b0b'/><g fill='%23ff3b8a'><rect x='70' y='45' width='52' height='40'/><rect x='92' y='85' width='8' height='44'/><rect x='66' y='129' width='60' height='8'/></g></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='512' height='512'><rect width='100%' height='100%' fill='%23080b0b'/><g fill='%23ff3b8a'><rect x='180' y='110' width='152' height='120'/><rect x='244' y='230' width='24' height='110'/><rect x='162' y='360' width='188' height='24'/></g></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
